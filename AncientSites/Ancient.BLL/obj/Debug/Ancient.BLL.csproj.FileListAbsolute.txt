@@ -1,0 +1,12 @@
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\bin\Debug\Ancient.BLL.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\bin\Debug\Ancient.BLL.pdb
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\bin\Debug\Ancient.DAL.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\bin\Debug\Ancient.Models.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\bin\Debug\Ancient.DAL.pdb
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\bin\Debug\Ancient.Models.pdb
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\obj\Debug\Ancient.BLL.csprojResolveAssemblyReference.cache
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\obj\Debug\Ancient.BLL.csproj.CoreCompileInputs.cache
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\obj\Debug\Ancient.BLL.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\obj\Debug\Ancient.BLL.pdb
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\bin\Debug\Ancient.Common.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.BLL\bin\Debug\Ancient.Common.pdb

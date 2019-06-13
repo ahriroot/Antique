@@ -1,0 +1,10 @@
+C:\Users\AHRI\Desktop\StringProtect\StringProtect\bin\Debug\StringProtect.exe.config
+C:\Users\AHRI\Desktop\StringProtect\StringProtect\bin\Debug\StringProtect.exe
+C:\Users\AHRI\Desktop\StringProtect\StringProtect\bin\Debug\StringProtect.pdb
+C:\Users\AHRI\Desktop\StringProtect\StringProtect\obj\Debug\StringProtect.csprojAssemblyReference.cache
+C:\Users\AHRI\Desktop\StringProtect\StringProtect\obj\Debug\StringProtect.Form1.resources
+C:\Users\AHRI\Desktop\StringProtect\StringProtect\obj\Debug\StringProtect.Properties.Resources.resources
+C:\Users\AHRI\Desktop\StringProtect\StringProtect\obj\Debug\StringProtect.csproj.GenerateResource.cache
+C:\Users\AHRI\Desktop\StringProtect\StringProtect\obj\Debug\StringProtect.csproj.CoreCompileInputs.cache
+C:\Users\AHRI\Desktop\StringProtect\StringProtect\obj\Debug\StringProtect.exe
+C:\Users\AHRI\Desktop\StringProtect\StringProtect\obj\Debug\StringProtect.pdb

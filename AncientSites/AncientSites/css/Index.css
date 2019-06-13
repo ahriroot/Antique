@@ -1,0 +1,289 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    font-family: '楷体';
+}
+
+a {
+    text-decoration: none;
+}
+
+body { 
+}
+
+/*--整体布局DIV--*/
+#globalBox { position:relative;
+    top: 0px;
+    left: 0px;
+    width:1920px;
+}
+
+/*头部*/
+#header {
+    position: relative;
+    height: 150px;
+    background: #eaeae7;
+    box-shadow: 0 8px 10px #44453f;
+    top: 0px;
+    left: 0px;
+}
+    #headHeader {
+        position: absolute;
+        background: #cbc6c6;
+        height: 50px;
+        width: 100%;
+        box-shadow: 0 1px 1px #808080;
+        z-index:10;
+    }
+    #btnHeadBox{
+        position: absolute;
+        top:15px;
+        left:1620px;
+        z-index:15;
+    width: 122px;
+}
+    #headBottom {
+        position: absolute;
+    }
+        #search {
+            position: absolute;
+            left: 680px;
+            top: 55px;
+            width: 700px;
+            height: 80px;
+            text-align:center;
+            line-height:80px;
+        }
+            #ddlSearch {
+                position: absolute;
+                left:100px;
+                top: 25px;
+                width:120px;
+            }
+            #txtSearch {
+                position: absolute;
+                left:230px;
+                top: 26px;
+                width:300px;
+                height:31px;
+            }
+            #btnSearch {
+                position: absolute;
+                left:550px;
+                top: 25px;
+                width:100px;
+                height:33px;
+                border-style: none;
+                border-color: inherit;
+                border-width: medium;
+                background: #8a4d87;
+                border-radius: 5px;
+                color: #000000;
+            }
+
+/*中间*/
+#center {
+    position: relative;
+    top: 5px;
+    height: 1100px;
+    width: 1920px;
+    background: #e1e0c7;
+    left: 0px;
+    overflow: auto;
+}
+    #centerLeft {
+        position: absolute;
+        top: 50px;
+        left: 100px;
+        background: #ffffff;
+        height: 1000px;
+        width: 350px;
+        box-shadow: 5px 5px 5px #808080;
+        border: solid 2px #484141;
+        border-radius: 10px;
+        overflow: auto;
+        text-align: center;
+    }
+    #lineOne {
+        position: absolute;
+        top: 5px;
+        left: 500px;
+        background: #ffffff;
+        box-shadow: 1px 1px 1px #808080;
+        width: 1px;
+        height: 1085px;
+        border: solid 2px #484141;
+    }
+    #centerMiddle {
+        position: absolute;
+        top: 50px;
+        left: 550px;
+        background: #656565;
+        height: 1000px;
+        width: 400px;
+        box-shadow: 5px 5px 5px #808080;
+        border: solid 2px #484141;
+        border-radius: 10px;
+        overflow: auto;
+        text-align: center;
+    }
+            #centerMiddle ul {
+                padding: 5px;
+                background: #2f2f2f;
+            }
+            #centerMiddle li {
+                font-size: 22px;
+                font-weight: bold;
+            }
+            #centerMiddle a {
+                color: #ffffff;
+            }
+    #lineTwo {
+        position: absolute;
+        top: 5px;
+        left: 1000px;
+        background: #ffffff;
+        box-shadow: 1px 1px 1px #808080;
+        width: 1px;
+        height: 1085px;
+        border: solid 2px #484141;
+    }
+    #centerRight {
+        position: absolute;
+        top: 50px;
+        left: 1075px;
+        background: #ffffff;
+        height: 1000px;
+        width: 750px;
+        box-shadow: 5px 5px 5px #808080;
+        border: solid 2px #484141;
+        border-radius: 10px;
+    }
+    #btnBox{
+        width: 730px;
+    }
+
+        #btnTranslation {
+            height: 35px;
+            width: 35px;
+            border: none;
+            background: #d3d3d3;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 35px;
+            font-size: 20px;
+            color: #000000;
+        }
+        #btnCommentaries {
+            height: 35px;
+            width: 35px;
+            border: none;
+            background: #d3d3d3;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 35px;
+            font-size: 20px;
+            color: #000000;
+        }
+        #btnAppreciation {
+            height: 35px;
+            width: 35px;
+            border: none;
+            background: #d3d3d3;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 35px;
+            font-size: 20px;
+            color: #000000;
+        }
+        #btnFeedback {
+            height: 35px;
+            width: 80px;
+            border: none;
+            background: #d3d3d3;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 35px;
+            font-size: 20px;
+            color: #000000;
+        }
+        #content {
+            position: absolute;
+            height: 940px;
+            width: 730px;
+            overflow: auto;
+            text-align: center;
+            top:37px;
+            left: 10px;
+            overflow-y: scroll;
+        }
+
+/*尾部*/
+#footer {
+    height: 200px;
+    background: #9a9696;
+}
+
+/*赏析*/
+.box {
+    position: absolute;
+    top: 205px;
+    left: 202px;
+    z-index: 10;
+    width: 700px;
+    height: 600px;
+    background: #f0efe2;
+    box-shadow: 5px 5px 10px #000;
+    border-radius: 10px;
+    display: none;
+}
+#tiMu {
+    width: 650px;
+    height: 60px;
+}
+#btnHide {
+    position: absolute;
+    top: 12px;
+    right: 5px;
+    height: 35px;
+    width: 35px;
+    border: none;
+    background: #d3d3d3;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 35px;
+    font-size: 20px;
+    color: #000000;
+    float: right;
+}
+#neiRong {
+    height: 540px;
+    overflow: auto;
+    overflow-y: scroll;
+}
+#poetess:hover {
+    cursor: pointer;
+}
+
+/*反馈*/
+.box2 {
+    position: absolute;
+    top: 205px;
+    left: 602px;
+    z-index: 10;
+    width: 700px;
+    height: 600px;
+    background: #ffffff;
+    box-shadow: 5px 5px 10px #000;
+    border-radius: 5px;
+    display: none;
+}
+#txtFeedback {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    z-index: 10;
+    width: 600px;
+    height: 400px;
+    font-size:25px;
+}

@@ -1,0 +1,10 @@
+C:\Users\MXTF\Desktop\AncientSites\Ancient.DAL\bin\Debug\Ancient.DAL.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.DAL\bin\Debug\Ancient.DAL.pdb
+C:\Users\MXTF\Desktop\AncientSites\Ancient.DAL\bin\Debug\Ancient.Common.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.DAL\bin\Debug\Ancient.Models.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.DAL\bin\Debug\Ancient.Common.pdb
+C:\Users\MXTF\Desktop\AncientSites\Ancient.DAL\bin\Debug\Ancient.Models.pdb
+C:\Users\MXTF\Desktop\AncientSites\Ancient.DAL\obj\Debug\Ancient.DAL.csprojResolveAssemblyReference.cache
+C:\Users\MXTF\Desktop\AncientSites\Ancient.DAL\obj\Debug\Ancient.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MXTF\Desktop\AncientSites\Ancient.DAL\obj\Debug\Ancient.DAL.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.DAL\obj\Debug\Ancient.DAL.pdb

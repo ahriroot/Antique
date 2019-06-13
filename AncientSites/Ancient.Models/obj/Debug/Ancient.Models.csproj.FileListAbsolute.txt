@@ -1,0 +1,6 @@
+C:\Users\MXTF\Desktop\AncientSites\Ancient.Models\bin\Debug\Ancient.Models.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.Models\bin\Debug\Ancient.Models.pdb
+C:\Users\MXTF\Desktop\AncientSites\Ancient.Models\obj\Debug\Ancient.Models.csproj.CoreCompileInputs.cache
+C:\Users\MXTF\Desktop\AncientSites\Ancient.Models\obj\Debug\Ancient.Models.dll
+C:\Users\MXTF\Desktop\AncientSites\Ancient.Models\obj\Debug\Ancient.Models.pdb
+C:\Users\MXTF\Desktop\AncientSites\Ancient.Models\obj\Debug\Ancient.Models.csprojResolveAssemblyReference.cache
